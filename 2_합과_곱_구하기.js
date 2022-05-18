@@ -1,3 +1,4 @@
+// 05.18
 // a부터 b까지의 합을 구하는 함수
 function sumAll(a, b) {
   let output = 0;

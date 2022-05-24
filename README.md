@@ -17,8 +17,6 @@
 멋쟁이사자처럼 Front-End School 2기 동료들  
 (허지현, 임홍렬, 이수빈, 황혜명, 조민경, 조수영, 이예은, 구나영, 김도희, 전유진, 조윤희, 남위정, 김태희, 우혜빈, 이소민, 오한솔, 임현지, 장소연, 정예지, 김경림, 최수빈, 류재준)    
 
-암기한 내용은 github, notion, velog로 관리하고 있습니다.
-
 ### 참고
 
 <a href="https://velog.io/@plutoin/series/1%EC%9D%BC-1%ED%95%A8%EC%88%98-%EC%99%B8%EC%9A%B0%EA%B8%B0-%EC%B1%8C%EB%A6%B0%EC%A7%80">

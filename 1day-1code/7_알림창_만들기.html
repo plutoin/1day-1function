@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <style>
+    .alert {
+      width: 300px;
+      margin: 0 auto;
+      padding: 10px;
+      text-align: center;
+      font-size: 20px;
+      color: brown;
+      background-color: lightpink;
+      border: 1px solid gray;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="alert alert-danger" id="alert">
+    <span id="time">5</span>
+    초 이내 구매 시 사은품 증정
+  </div>
+
+  <script>
+    const alert = document.querySelector('#alert');
+    const time = document.querySelector('#time');
+
+    let count = 5;
+
+    setInterval(() => {
+      count--;
+      if(count >= 0) {
+        time.innerText = count;
+      }
+      if(count == 0) {
+        alert.remove();
+      }
+    }, 1000);
+  </script>
+</body>
+
+</html>

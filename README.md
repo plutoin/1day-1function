@@ -34,6 +34,6 @@
 
 
 ### 참고
-<a href="https://www.notion.so/watchusrise/eda6be4308a0418b8b15b6ee6c9032a5">
+<a href="https://www.notion.so/watchusrise/JS-100-7417d5c1de6e4c4ebf28532d54942c61">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white">
 </a>

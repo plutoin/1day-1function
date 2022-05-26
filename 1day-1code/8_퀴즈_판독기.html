@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<body>
+  <p>태조 이성계가 태어난 연도는?</p>
+  <input type="text" id="answer" />
+  <button id="send-answer" type="submit">제출</button>
+
+  <script>
+    // 1. 유저가 답을 맞추면 alert('성공')
+    // 2. 유저가 답을 3번 찍어서 못맞추면 alert('멍청아')
+    // 3. 2번까지는 틀렸으면('땡')
+
+    // 추가한 기능
+    // 1. 입력된 값이 숫자인지 판단하기 위해 정규식 사용
+    // 2. 공백일 때와 숫자가 아닐 때 각각 ‘정답을 입력해 주세요!’와 ‘숫자로 입력해 주세요!’ 문구 출력
+    // 3. 숫자로 입력됐을 때만 정답 입력 횟수가 증가하도록 설정
+
+    const btn = document.getElementById('send-answer')
+    let count = 0
+    let check = /^[0-9]+$/
+
+    btn.addEventListener('click', () => {
+      const answer = document.getElementById('answer').value
+      if (check.test(answer)) {
+        count++
+        if (answer == 1335) {
+          alert('성공!')
+        } else if (answer != 1335 && count <= 3) {
+          alert('땡!')
+        } else {
+          alert('멍청아!')
+        }
+      } else if (answer == "") {
+        alert('정답을 입력해 주세요!')
+      } else {
+        alert('숫자로만 입력해 주세요!')
+      }
+    })
+  </script>
+</body>
+
+</html>

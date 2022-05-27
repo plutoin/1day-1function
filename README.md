@@ -22,7 +22,7 @@
 <a href="https://velog.io/@plutoin/series/1%EC%9D%BC-1%ED%95%A8%EC%88%98-%EC%99%B8%EC%9A%B0%EA%B8%B0-%EC%B1%8C%EB%A6%B0%EC%A7%80">
   <img src="https://img.shields.io/badge/Velog-%2320C997.svg?style=flat-square&logo=velog&logoColor=white">
 </a>
-<a href="https://www.notion.so/a56dc06ab73348929658243aebe825ec?v=58151f6dc7684656ad2a7c218782c645">
+<a href="https://watchusrise.notion.site/1-1-bbe56e364d224ac591c2d3a2186c682b">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white">
 </a>
 
@@ -30,10 +30,15 @@
 <br>
 
 ## JS_100
-인프런의 [제주코딩베이스캠프 Code Festival: JavaScript 100제](https://www.inflearn.com/course/%EC%A0%9C%EC%A3%BC%EC%BD%94%EB%94%A9-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-100%EC%A0%9C/dashboard) 강의를 수강하며 풀이한 코드 모음입니다.
+인프런의 [제주코딩베이스캠프 Code Festival: JavaScript 100제](https://www.inflearn.com/course/%EC%A0%9C%EC%A3%BC%EC%BD%94%EB%94%A9-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-100%EC%A0%9C/dashboard) 강의에 있는 문제들로 멋쟁이사자처럼 프론트엔드 2기 과정의 <JS 알고리즘 스터디>에 참여하며 풀이한 레포입니다.
+
+문제를 푸는 것뿐만 아니라 이후의 원활한 협업 진행을 위해 PR, fetch를 사용하는 법을 배워 스터디원들과 한 레포를 관리하며 [이곳](https://github.com/jsk3342/JavaScript-Algorithm-Challenge)에서 모여 공부하고 있습니다.
 
 
 ### 참고
-<a href="https://www.notion.so/watchusrise/JS-100-7417d5c1de6e4c4ebf28532d54942c61">
+<a href="https://github.com/jsk3342/JavaScript-Algorithm-Challenge/tree/main/Challenge/SoyeonJang">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white">
+</a>
+<a href="https://watchusrise.notion.site/JS-100-348f3d90f4e1413a8ae4c8462cff4dd4">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white">
 </a>
